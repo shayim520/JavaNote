@@ -8,6 +8,11 @@ public class classIntro {
 		System.out.println(i);
 		
 		System.out.println("Hello " + "world " + "!!!");
+		System.out.println("Hello " + "world " + "!!!");
+		System.out.println("Hello " + "world " + "!!!");
+		System.out.println("Hello " + "world " + "!!!");
+		System.out.println("Hello " + "world " + "!!!");
+		
 		
 		
 		
